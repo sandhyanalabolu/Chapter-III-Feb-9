@@ -1,0 +1,13 @@
+body{
+    margin: 25%;
+    text-align: justify;
+    padding: 10px;
+    text-justify: inter-word;
+}
+p{
+    text-align: justify;
+    text-indent: 40px;
+}
+h1{
+    text-align: center;
+}
